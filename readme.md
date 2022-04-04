@@ -1,0 +1,1 @@
+ csapattagok: Varga Kornél, Sebestyén Krisztián, Reizinger Krisztofer
