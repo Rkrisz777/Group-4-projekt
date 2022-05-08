@@ -9,3 +9,6 @@
 img{
   width: auto;
 }
+body{
+  background-image: url(képek/háttér.jpg);
+}
